@@ -1,0 +1,23 @@
+169-231-109-55:CS171 johnrehbein$ python3 GoodMovie.py training.txt test1.txt
+Number of movies = 20
+True positives = 9
+True negatives = 6
+False positives = 2
+False Negatives = 3
+Error Rate = 0.25
+
+169-231-109-55:CS171 johnrehbein$ python3 GoodMovie.py training.txt test2.txt
+Number of movies = 20
+True positives = 10
+True negatives = 4
+False positives = 4
+False Negatives = 2
+Error Rate = 0.3
+
+169-231-109-55:CS171 johnrehbein$ python3 GoodMovie.py training.txt test3.txt
+Number of movies = 20
+True positives = 10
+True negatives = 5
+False positives = 4
+False Negatives = 1
+Error Rate = 0.25
